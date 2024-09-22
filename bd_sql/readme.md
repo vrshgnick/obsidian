@@ -1,1 +1,0 @@
-тут не будет ниче такого, по сути это же есть в [другом репозитории](https://github.com/vrshgnick/obsidian/tree/main/bd_sql)
